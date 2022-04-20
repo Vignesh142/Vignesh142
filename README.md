@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vignesh142
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning B.tech (1/4th)year
+- 🌱 I’m currently pursuing undergraduation B.tech CSE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
