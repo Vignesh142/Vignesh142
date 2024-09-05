@@ -3,6 +3,7 @@
 - 🌱 I’m currently pursuing undergraduation B.tech CSE
 - 💞️ I’m looking to collaborate on AIML and DeepLearning projects
 - 📫 How to reach me mail- ajaypunna9342@gmail.com
+- 🔗 Linkedin - https://linkedin.com/in/vigneshwarpunna
 - 👨‍💻 LeetCode - https://leetcode.com/ajaypunna9342/
 - 👨‍💻 CodeChef - https://www.codechef.com/users/vicky464
 - 👨‍💻 CodeForces - https://codeforces.com/profile/ajaypunna9342
