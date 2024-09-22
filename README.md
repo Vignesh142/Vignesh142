@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vignesh142
 - 👀 I’m interested in Programming and coding
-- 🌱 I’m currently pursuing undergraduation B.tech CSE
+- 🌱 I’m currently pursuing undergraduation B.E CSE at MVSREC
 - 💞️ I’m looking to collaborate on AIML and DeepLearning projects
 - 📫 How to reach me mail- ajaypunna9342@gmail.com
 - 🔗 Linkedin - https://linkedin.com/in/vigneshwarpunna
