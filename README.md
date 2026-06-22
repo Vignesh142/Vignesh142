@@ -21,9 +21,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vignesh142&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00d9ff&icon_color=7ee787&text_color=c9d1d9&rank_icon=github" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh142&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d9ff&fire=f78166&currStreakLabel=7ee787&sideLabels=c9d1d9&dates=8b949e" width="49%" alt="GitHub Streak"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=vignesh142&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 </div>
 
 ---
