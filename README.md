@@ -104,46 +104,6 @@
 
 ---
 
-## 💼 Professional Experience
-
-```
-📅 Timeline ──────────────────────────────────────────────────────────────────►
-```
-
-**🟢 Oct 2024 – Present &nbsp;|&nbsp; Full Stack Engineer — Poditivity Connect, Hyderabad**
-> Architected federated microservices with Apollo GraphQL (TypeScript), cutting API latency by **40%**.
-> Deployed AWS Lambda workers + SQS/SES pipelines; reduced cloud costs by **25%**.
-> Built Next.js frontend with Razorpay webhooks and async email queues.
-
-`TypeScript` `Apollo GraphQL` `Next.js` `AWS Lambda` `SQS/SES/Cognito` `PostgreSQL`
-
----
-
-**🟡 2025 – Present &nbsp;|&nbsp; Co-Founder & CTO — Farmacy (Agri-Tech, Incubated)**
-> Secured cloud incubation + mentorship from Nexnora Technologies.
-> Deployed YOLO-based CNN for real-time plant disease diagnosis over secure image inference URLs.
-> Built FastAPI backend on AWS EC2; integrated Firebase SMS auth optimized for rural networks.
-
-`FastAPI` `Docker` `AWS EC2` `YOLO` `Supabase PostgreSQL` `Firebase Auth`
-
----
-
-**🟠 Nov 2024 – Feb 2025 &nbsp;|&nbsp; AI/ML Research Intern — DRDL (Defence R&D)**
-> Built a secure local Agentic AI workspace: LangGraph coordinator with dynamic tool routing.
-> Structured data agents for SQL/CSV analytics; hybrid ChromaDB + fuzzy-search PDF querying.
-
-`LangGraph` `LangChain` `ChromaDB` `RAG` `LangSmith` `Python`
-
----
-
-**🔵 Jun 2024 – Sep 2024 &nbsp;|&nbsp; Backend Engineering Intern — DeltaX, Bangalore (Remote)**
-> Built RESTful AdTech APIs with ASP.NET Core (Clean Architecture, Repository Pattern, DI).
-> Implemented JWT middleware; worked with Entity Framework Core, Dapper, stored procedures.
-
-`ASP.NET Core` `C#` `Entity Framework Core` `Dapper` `SQL Server`
-
----
-
 ## 🚀 Key Projects
 
 ### 🏆 ENGAGE — AI Customer Engagement Platform
@@ -170,37 +130,6 @@ A fully on-premise analytical data assistant. Executes multi-table joins + vecto
 > 🔬 Research & Deployment
 
 Real-time fitness trainer (MediaPipe joint angle tracking) + highway car counter (Deep SORT tracking algorithms).
-
----
-
-## 🏅 Achievements & Competitive Coding
-
-<div align="center">
-
-| Platform | Rating / Rank | Achievement |
-|---|---|---|
-| 🏆 Hackathon | **1st Place / Nationwide** | ENGAGE — AI Customer Platform |
-| ⚔️ Codeforces | **1200+ Rating** | Competitive Programmer |
-| 🌟 CodeChef | **3-Star** | Consistent Performer |
-| 🧠 LeetCode | **1680+ Rating** | Problem Solver |
-| 📊 GeeksForGeeks | **1819+ Score** | Top Contributor |
-| 🥈 Suntek Corp | **Top 2 / 500** | Coding Challenge |
-| 📝 Research | **Peer-Reviewed Publication** | "Customer Enhancement Using AI" — Institution of Engineers India |
-| 👥 Leadership | **CSI Coordinator 2022–2025** | Organized major tech symposiums |
-
-</div>
-
----
-
-## 🎓 Education
-
-```
-🎓 B.E. Computer Science Engineering
-   MVSR Engineering College, Hyderabad  |  CGPA: 9.15 / 10  |  2021 – 2025
-
-📚 Secondary Education (MPC)
-   Narayana Junior College, Hyderabad  |  97% (Math, Physics, Chemistry)  |  2019 – 2021
-```
 
 ---
 
